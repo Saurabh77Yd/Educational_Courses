@@ -1,2 +1,2 @@
 # Educational_Courses
-Preview the website:- educational-courses.vercel.app
+Preview the website:- 'educational-courses.vercel.app'
